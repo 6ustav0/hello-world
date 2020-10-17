@@ -1,4 +1,4 @@
 # hello-world
 Another hola mundo
 
-World is open noW, here we go!
+World is open now, here we go!
